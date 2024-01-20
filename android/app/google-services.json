@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "865575640182",
+    "project_id": "commerce-cfce4",
+    "storage_bucket": "commerce-cfce4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865575640182:android:1413a82120081da57b5357",
+        "android_client_info": {
+          "package_name": "com.example.commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865575640182-5gec8ta6qhsc2mqj7e0pd29rcrf11b6j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.commerce",
+            "certificate_hash": "3e5a250c9a871007dfacaa662c57f21b4f407ba5"
+          }
+        },
+        {
+          "client_id": "865575640182-8gm3s1som8q7m4jal8hq5moo0rii215s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeCw9joboIrkQJmClj3R_1k67yX7epvPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865575640182-8gm3s1som8q7m4jal8hq5moo0rii215s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
